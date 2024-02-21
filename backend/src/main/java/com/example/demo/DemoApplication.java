@@ -24,7 +24,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * The task description transferred from the (React) client is provided as a
  * request body in a JSON structure.
  * The data is converted to a task object using Jackson and added to the list of
- * tasks.
+ * tasks./
  * All endpoints are annotated with @CrossOrigin to enable cross-origin
  * requests.
  * test
