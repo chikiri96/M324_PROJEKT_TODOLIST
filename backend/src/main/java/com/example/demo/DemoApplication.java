@@ -26,8 +26,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * The data is converted to a task object using Jackson and added to the list of
  * tasks.
  * All endpoints are annotated with @CrossOrigin to enable cross-origin
- * requests.-
- * test
+ * requests.
+ *
  * @author luh
  */
 @RestController
